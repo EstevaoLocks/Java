@@ -36,5 +36,7 @@ public class Atividade1 {
 		System.out.println(pi);
 		System.out.println(letra);
 		System.out.println(ehVerdadeiro);
-   }
-}
+		
+	}// end method main
+	
+}// end class

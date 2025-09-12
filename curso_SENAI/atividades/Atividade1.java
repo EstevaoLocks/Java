@@ -1,5 +1,4 @@
 
-
 package atividades;
 /**
  * Classe 'Atividade1' utilizada para demonstrar os tipos primitivos 

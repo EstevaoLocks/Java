@@ -1,4 +1,5 @@
 
+
 package atividades;
 /**
  * Classe 'Atividade1' utilizada para demonstrar os tipos primitivos 
@@ -38,5 +39,5 @@ public class Atividade1 {
 		System.out.println(ehVerdadeiro);
 		
 	}// end method main
-	
+
 }// end class

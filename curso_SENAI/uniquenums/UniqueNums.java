@@ -5,6 +5,7 @@ package uniquenums;
  */
 import java.util.Scanner;
 
+
 /*
  * Criacao da classe UniqueNums para a pratica
  * com arrays em Java

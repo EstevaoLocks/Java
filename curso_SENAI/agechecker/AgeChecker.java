@@ -25,11 +25,13 @@ public class AgeChecker {
 		char temHabilitacao = in.next().charAt(0);
 		
 		// if se e maior de idade e tem habilitacao
-		if ((idade >= 21) && (temHabilitacao.EqualsIgnoreCase('y')))  {
+		if ((idade >= 21) && (temHabilitacao == 'y' || temHabilitacao == 'Y'))  {
 			System.out.println("Você pode dirigir! :D");
 		}else {
 			System.out.println("Você não pode dirigir! :<");
 		}// end if-else
+		
+		in.close();
 		
 	}// end method main
 

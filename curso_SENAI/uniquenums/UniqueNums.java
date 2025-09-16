@@ -38,6 +38,11 @@ public class UniqueNums {
 			numValues++;
 			
 		}//endwhile
+		in.close();
+		
+		for (int numV: numbers) {
+			System.out.println(numbers[numV]);
+		}
 
 	}//end method main
 	

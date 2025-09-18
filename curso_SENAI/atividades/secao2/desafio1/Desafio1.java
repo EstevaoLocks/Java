@@ -1,4 +1,4 @@
-package secao2.desafio1;
+package atividades.secao2.desafio1;
 
 
 /*

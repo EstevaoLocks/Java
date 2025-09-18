@@ -1,4 +1,4 @@
-package secao2.Atividade1;
+package atividades.secao2.Atividade1;
 
 /*
  *  Criacao da classe Atividade1 para settar 

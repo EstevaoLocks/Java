@@ -1,4 +1,4 @@
-package secao2.Atividade4;
+package atividades.secao2.Atividade4;
 /*
  * Classe ContaBancaria criada para pratica de instanciacao
  * de classes

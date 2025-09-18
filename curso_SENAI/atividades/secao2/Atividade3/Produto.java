@@ -1,4 +1,4 @@
-package secao2.Atividade3;
+package atividades.secao2.Atividade3;
 /*
  * Classe Produto criada para pratica de instanciacao
  * de classes

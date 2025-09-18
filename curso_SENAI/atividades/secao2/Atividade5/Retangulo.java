@@ -1,4 +1,4 @@
-package secao2.Atividade5;
+package atividades.secao2.Atividade5;
 /*
  * Classe Retangulo criada para pratica de instanciacao
  * de classes

@@ -1,4 +1,4 @@
-package secao2.Atividade2;
+package atividades.secao2.Atividade2;
 
 
 /*

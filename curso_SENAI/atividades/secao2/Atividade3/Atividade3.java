@@ -1,4 +1,4 @@
-package secao2.Atividade3;
+package atividades.secao2.Atividade3;
 /*
  *  Criacao da classe Atividade3 para settar 
  *  e gettar os valores da classe Pessoa

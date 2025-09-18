@@ -1,4 +1,4 @@
-package secao2.Atividade2;
+package atividades.secao2.Atividade2;
 /*
  * Classe pessoa criada para pratica de instanciacao
  * de classes

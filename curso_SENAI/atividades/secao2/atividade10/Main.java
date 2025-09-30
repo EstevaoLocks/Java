@@ -1,4 +1,4 @@
-package secao2.atividade10;
+package atividades.secao2.atividade10;
 
 // Importando bibliotecas necessárias
 import java.util.ArrayList;

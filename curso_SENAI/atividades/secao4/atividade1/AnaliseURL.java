@@ -1,4 +1,4 @@
-package secao4.atividade1;
+package atividades.secao4.atividade1;
 
 public class AnaliseURL {
     public static void main(String[] args) {

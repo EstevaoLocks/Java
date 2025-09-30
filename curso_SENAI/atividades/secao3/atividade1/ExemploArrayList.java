@@ -1,4 +1,4 @@
-package secao3.atividade1;
+package atividades.secao3.atividade1;
 
 import java.util.ArrayList;
 

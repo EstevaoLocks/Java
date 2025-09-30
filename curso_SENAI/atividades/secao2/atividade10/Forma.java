@@ -1,4 +1,4 @@
-package secao2.atividade10;
+package atividades.secao2.atividade10;
 
 /*
  *  Classe Forma criada para pratica de interfaces

@@ -1,4 +1,4 @@
-package secao3.atividade2;
+package atividades.secao3.atividade2;
 
 import java.util.HashSet;
 import java.util.Set;

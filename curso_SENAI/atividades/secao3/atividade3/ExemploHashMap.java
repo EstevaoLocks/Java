@@ -1,4 +1,4 @@
-package secao3.atividade3;
+package atividades.secao3.atividade3;
 
 import java.util.HashMap;
 import java.util.Map;

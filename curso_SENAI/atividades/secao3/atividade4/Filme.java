@@ -1,4 +1,4 @@
-package secao3.atividade4;
+package atividades.secao3.atividade4;
 
 public class Filme {
     private String titulo;

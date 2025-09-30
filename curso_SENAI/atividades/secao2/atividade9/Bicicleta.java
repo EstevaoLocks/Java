@@ -1,4 +1,4 @@
-package secao2.atividade9;
+package atividades.secao2.atividade9;
 
 public final class Bicicleta implements Veiculo {
     private final double custoDeManutencaoPorKm;

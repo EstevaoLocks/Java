@@ -1,4 +1,4 @@
-package secao4.atividade2;
+package atividades.secao4.atividade2;
 
 public class ConstrutorEmail {
     public static void main(String[] args) {

@@ -10,6 +10,7 @@ import java.util.Scanner;
  * Criacao da classe AgeCecker para entender
  * o uso de inputs com operadores condicionais
  */
+
 public class AgeChecker {
 	public static void main(String[] args) {
 

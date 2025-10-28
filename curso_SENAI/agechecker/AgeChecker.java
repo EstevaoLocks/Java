@@ -1,7 +1,7 @@
 // OLÁ ESTEVÃO
 // olá Caiíssimo
 
-// delete system32
+// Um commit qualquer - hehehe-ha (Ryoiki Tenkai Fukuma Mizushi)
 package agechecker;
 //Olha o comunismo da sociedade
 // sei sim

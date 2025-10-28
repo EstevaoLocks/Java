@@ -1,5 +1,7 @@
+// delete system32
 package agechecker;
-// sei lá
+
+//Olha o comunismo da sociedade
 /*
  *  Importando classe Scanner para 
  *  inputs

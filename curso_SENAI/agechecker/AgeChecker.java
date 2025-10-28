@@ -1,5 +1,5 @@
 package agechecker;
-// sei lá
+// sei sim
 /*
  *  Importando classe Scanner para 
  *  inputs
